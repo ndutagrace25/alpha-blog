@@ -1,0 +1,8 @@
+a {
+    text-decoration: none;
+}
+
+.jumbotron {
+    background-image: asset-url('Header.jpg');
+    height: 550px;
+}
